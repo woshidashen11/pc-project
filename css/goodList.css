@@ -1,0 +1,359 @@
+
+#wrapper8 {
+	width: 100%;
+	background: #f3f6ff;
+	padding-top: 12px;
+	padding-right:2px ;
+}
+
+#wrapper8 .g-mart-header{
+ 	margin: 0 auto;
+ 	width: 1062px;
+ 	height: 260px;
+ 	background-color: #fff;
+    border: 1px solid #eee;
+    padding: 6px;
+    overflow: hidden;
+    position: relative;
+     } 
+     
+#wrapper8 .g-mart-header .g-side-left img {
+	display: block;
+	float:left ;
+}
+
+#wrapper8 .g-mart-header .g-side-right{
+	 width: 490px;
+	 float: right;
+	 height: 248px;
+}
+
+#wrapper8 .g-mart-header .g-side-right .m-info{
+	width: 490px;
+	padding-top:12px;
+	height: 71px;
+	overflow: hidden;
+}
+
+.g-mart-header .g-side-right .m-info .logo {
+	width: 120px;
+	height: 60px;
+	float: left;
+}
+
+.g-mart-header .g-side-right .m-info .logo img {
+	width: 120px;
+	height: 60px;
+}
+
+.g-mart-header .g-side-right .m-info .countdown-container {
+	width: 212px;
+	height: 22px;
+	float: right;
+	overflow: hidden;
+	padding-top:14px ;
+	padding-right: 10px;
+	
+}
+
+.m-info .countdown-container .timer{
+	display: block;
+	float: right;
+}
+
+.m-info .countdown-container .timer .countdown{
+	background: url("../img/goodList/djs.jpg") no-repeat left center;
+	font-size: 16px;
+	text-indent: 18px;
+	height: 22px;
+	line-height: 22px;
+}
+
+
+
+
+#wrapper8 .g-mart-header .m-detail{
+	width: 490px;
+	height: 209px;
+	border-top:1px dashed #f1f1f1 ;
+}
+
+#wrapper8 .g-mart-header .m-detail h3 {
+	padding-top:20px ;
+	padding-bottom:15px ;
+}
+
+#wrapper8 .g-mart-header .m-detail h3 .mart-name {
+	font-size: 16px;
+	color: #484848;
+}
+
+#wrapper8 .g-mart-header .m-detail h3 .mart-discount {
+	font-size: 16px;
+	color: #ff4965;
+}
+
+#wrapper8 .g-mart-header .m-detail h3 .mart-discount span {
+	font-size: 24px;
+	color: #ff4965;
+	font-weight: bold;
+}
+
+#wrapper8 .g-mart-header .m-detail .promotion {
+	font-size: 12px;
+	color: #999999;
+	height: 14px;
+}
+
+#wrapper8 .g-mart-header .m-detail .promotion .mj_prom{
+	width: 10px;
+	height: 14px;
+	float: left;
+}
+
+#wrapper8 .g-mart-header .m-detail .promotion span {
+	float: left;
+	padding-left:7px;
+}
+
+#wrapper8 .g-mart-header .m-detail .description1 {
+	padding-top: 15px;
+	overflow: hidden;
+	height: 34px;
+	line-height: 17px;
+	color: #999999;
+	font-size: 12px;
+	width: 460px;
+	border: 1px solid #fff;
+	position: absolute;
+	
+}
+
+#wrapper8 .g-mart-header .m-detail .description1:hover{
+	overflow: visible;
+	background: #f9f9f9;
+	height: 85px;
+	width: 460px;
+	border: 1px solid #999;
+	z-index: 10;
+}
+
+#wrapper8 .g-mart-header .m-detail .opration2 {
+	width: 84px;
+	height: 25px;
+	border:1px solid #e7e7e7;
+	position:absolute ;
+	right: 36px;
+	bottom: 10px;
+	z-index:1;
+}
+
+#wrapper8 .g-mart-header .m-detail .opration2 .z-mart-hasLogin{
+          color: #999999;
+          font-size: 12px;
+          height: 25px;
+          line-height: 25px;
+          float: right;
+}
+
+#wrapper8 .u-cover {
+	background: #fff;
+	position: relative;
+	width: 1056px;
+	height: 131px;
+	border: 1px solid #eee;
+	margin: 15px auto;
+	overflow: hidden;
+	padding: 0 10px 0 10px;
+}
+
+#wrapper8  .u-cover .m-filterm {
+	width: 1036px;
+	height: 82px;
+	padding-top:10px;
+	
+}
+
+#wrapper8  .u-cover .m-filterm .note {
+	width:55px;
+	float: left;
+	color:#3e3e3e ;
+	font-size: 12px;
+	padding-top: 5px;
+}
+
+#wrapper8  .u-cover .m-filterm ul {
+	padding-left:58px ;
+}
+
+#wrapper8  .u-cover .m-filterm ul li {
+	float: left;
+	height: 18px;
+	padding-left: 13px;
+	padding-bottom:5px ;
+}
+
+#wrapper8  .u-cover .m-filterm ul li a {
+	color:#3e3e3e ;
+	font-size: 12px;
+}
+
+#wrapper8  .u-cover .m-filterm ul li .z-select {
+	color: #ff4965;
+}
+
+#wrapper8  .u-cover .m-filterm .f-clear-both {
+	width: 1016px;
+	position: absolute;
+	height: 1px;
+	top: 80px;
+	border-bottom: 1px dashed #eee;
+}
+
+#wrapper8  .u-cover .m-filterm-sort {
+	width: 1036px;
+	height: 22px;
+	overflow: hidden;
+}
+
+#wrapper8  .u-cover .m-filterm-sort .note2 {
+	font-size: 12px;
+	color: #666666;
+	height: 22px;
+	line-height: 22px;
+	width: 40px;
+	float: left;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul {
+	padding-left:70px ;
+	height: 22px;
+	line-height: 22px;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul li {
+	float: left;
+	
+	padding: ;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul li .FilterStockItem {
+	margin-top:5px ;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .yha {
+	font-size: 12px;
+	color: #666666;
+	height: 22px;
+	line-height: 22px;
+	float: right;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .check{
+	width: 50px;
+	height: 22px;
+	overflow: hidden;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .z-current {
+	width: 54px;
+	height: 22px;
+	background: #ff4965;
+	margin-left:10px ;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .z-current a {
+	font-size: 12px;
+	color: #ffffff;
+	height: 22px;
+	line-height: 22px;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .jg {
+	margin-left:10px ;
+	border: 1px solid #ddd;
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+}
+
+#wrapper8  .u-cover .m-filterm-sort ul .jg a {
+	font-size: 12px;
+	color: gray;
+}
+
+#wrapper8 .xxq {
+	width: 1062px;
+	height: 400px;
+}
+
+#wrapper8 .xxq .view-ItemListItem{
+	width: 251px;
+	height: 330px;
+	float: left;
+	border: 1px solid #eee;
+	margin-bottom:12px ;
+	margin-right:16px ;
+}
+
+#wrapper8 .xxq .last{
+	margin-right:0;
+}
+
+#wrapper8 .xxq .view-ItemListItem a {
+	width: 251px;
+	height: 250px;
+	display: inline-block;
+}
+
+#wrapper8 .xxq .view-ItemListItem a img {
+	width: 251px;
+	height: 250px;
+	
+}
+
+#wrapper8 .xxq .view-ItemListItem a .title{
+	padding:10px 0 0 10px ;
+	overflow: hidden;
+	height: 15px;
+	width: 230px;
+	font-size: 12px;
+	color: #666666;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info {
+	padding-top:20px ;
+	display: block;
+	padding-left: 15px;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info .symbol {
+	color: #ff4965;
+	font-size: 14px;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info .priceint1{
+	color:#ff4965;
+	font-size: 20px;
+	font-weight: bold;
+	width: 16px;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info .price-decimal{
+	color:#ff4965;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info .origin-price{
+	font-size: 12px;
+	color: #999999;
+	text-decoration: line-through;
+	padding-left: 8px;
+}
+
+#wrapper8 .xxq .view-ItemListItem a .price-info .discount{
+	font-size: 12px;
+	color: #999999;
+	padding-left: 48px;
+}

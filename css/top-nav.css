@@ -1,0 +1,177 @@
+
+ul,li{list-style: none;}
+.top-nav {
+	width: 100%;
+	background: #f4f4f4;
+	border-bottom: 1px #e8e8e8 solid;
+	height: 28px;
+	z-index: 109;
+	position: relative
+}
+
+.top-nav a:hover {
+	color: inherit;
+	text-decoration: underline
+}
+
+.top-nav a.striking-link:hover {
+	color: #FF5482
+}
+
+.top-nav ul {
+	position: absolute;
+	right: 0;
+	top: 0;
+	line-height: 28px;
+	padding: 0;
+	list-style-type: none;
+	font-size: 0
+}
+
+.top-nav ul li {
+	font-size: 12px;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	color: #555;
+	vertical-align: top;
+	margin: 0 12px
+}
+
+.top-nav ul li.small {
+	margin: 0 6px
+}
+
+.top-nav ul li .iconfont {
+	vertical-align: 1px
+}
+
+.top-nav ul li.seg {
+	margin: 7px 0;
+	height: 15px;
+	width: 1px;
+	background: #ddd
+}
+
+.top-nav ul li .lv-icon {
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	height: 20px;
+	background: url(//b0.hucdn.com/img/member/i_icon_s.png) no-repeat;
+	_background: url(//b0.hucdn.com/img/member/i_icon_s_ie6.png) no-repeat
+}
+
+.top-nav ul li .lv-icon:hover {
+	text-decoration: none
+}
+
+.top-nav ul li .lv1 {
+	background-position: 0 0
+}
+
+.top-nav ul li .lv2 {
+	background-position: -20px 0
+}
+
+.top-nav ul li .lv3 {
+	background-position: -40px 0
+}
+
+.top-nav ul li .lv4 {
+	background-position: -60px 0
+}
+
+.top-nav ul li .lv5 {
+	background-position: -80px 0
+}
+
+.top-nav ul li .lv6 {
+	background-position: -100px 0
+}
+
+.top-nav .striking-link {
+	color: #FF5482
+}
+
+.striking-link:hover {
+	color: #FF5482;
+	text-decoration: underline
+}
+
+.top-nav .dropdown .iconfont {
+	font-size: 12px;
+	vertical-align: 1px
+}
+
+.top-nav .dropdown {
+	position: relative;
+	line-height: 1.4em;
+	margin-top: 2px;
+	margin-right: -8px;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline
+}
+
+.top-nav .dropdown .dropdown-default {
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	padding: 3px 8px 0 8px;
+	z-index: 110;
+	position: relative
+}
+
+.top-nav a {
+	color: #555
+}
+
+.top-nav .dropdown .dropdown-block,
+.top-nav .dropdown .dropdown-list {
+	position: relative;
+	font-size: 12px;
+	display: none;
+	padding: 0 8px 3px 8px
+}
+
+.top-nav .dropdown .dropdown-list li {
+	line-height: 1.4em;
+	padding: 4px 0;
+	display: inline-block;
+	margin: 0;
+	*zoom: 1;
+	*display: inline
+}
+
+.top-nav .dropdown.hover .dropdown-block,
+.top-nav .dropdown.hover .dropdown-list,
+.top-nav .dropdown:hover .dropdown-block,
+.top-nav .dropdown:hover .dropdown-list {
+	display: block;
+	border: 1px solid #CECCCF;
+	border-top: none;
+	background: #fff;
+	padding: 0 7px 2px 7px
+}
+
+.top-nav .dropdown.hover .dropdown-default,
+.top-nav .dropdown:hover .dropdown-default {
+	border: 1px solid #CECCCF;
+	border-bottom: none;
+	background: #fff;
+	padding: 2px 7px 0 7px
+}
+
+.top-nav .dropdown .block-follow {
+	width: 200px;
+	position: absolute;
+	top: 19px;
+	left: -80px
+}
+
+.top-nav .dropdown.hover .block-follow,
+.top-nav .dropdown:hover .block-follow {
+	border: 1px solid #CECCCF;
+	padding: 10px
+}

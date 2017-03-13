@@ -1,0 +1,55 @@
+
+{"data":[{
+	"img" :"../img/goodDetail/max7.jpg",
+	"title":"迪士尼米奇米妮女童圆领长袖内衣套装两件套1",
+	"symbol":"¥",
+	"priceint1":"47",
+	"price-decimal":".00",
+	"origin-price":"¥119.00",
+	"discount":"3.9折",
+	"href":"goodDetail.html?0",
+	"img1":"../img/goodDetail/min7.jpg",
+	"img2":"../img/goodDetail/min8.jpg",
+	"img3":"../img/goodDetail/max7.jpg",
+	"img4":"../img/goodDetail/max8.jpg"
+	},{
+	"href":"goodDetail.html?1",
+	"img" :"../img/goodDetail/max2.jpg",
+	"title":"名莹 甜美长袖针织中长款毛呢连衣裙",
+	"symbol":"¥",
+	"priceint1":"169",
+	"price-decimal":".00",
+	"origin-price":"¥119.00",
+	"discount":"6.9折",
+	"img1":"../img/goodDetail/min1.jpg",
+	"img2":"../img/goodDetail/min2.jpg",
+	"img3":"../img/goodDetail/max2.jpg",
+	"img4":"../img/goodDetail/max1.jpg"
+	},{
+	"href":"goodDetail.html?2",
+	"img" :"../img/goodDetail/max3.jpg",
+	"title":"可风各秋季纯色时尚宽松长袖中长款毛呢外套",
+	"symbol":"¥",
+	"priceint1":"188",
+	"price-decimal":".00",
+	"origin-price":"¥119.00",
+	"discount":"8.9折",
+	"img1":"../img/goodDetail/min3.jpg",
+	"img2":"../img/goodDetail/min4.jpg",
+	"img3":"../img/goodDetail/max3.jpg",
+	"img4":"../img/goodDetail/max4.jpg"
+	},{
+	"href":"goodDetail.html?3",
+	"img" :"../img/goodDetail/max5.jpg",
+	"title":"今日特卖 可风各 秋冬新款优雅毛呢外套女装",
+	"symbol":"¥",
+	"priceint1":"111",
+	"price-decimal":".00",
+	"origin-price":"¥119.00",
+	"discount":"3.8折",
+	"img1":"../img/goodDetail/min5.jpg",
+	"img2":"../img/goodDetail/min6.jpg",
+	"img3":"../img/goodDetail/max5.jpg",
+	"img4":"../img/goodDetail/max6.jpg"
+	}]}
+	

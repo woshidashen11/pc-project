@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8" />
+    <link rel="stylesheet" href="../css/register.css" />
+    <script src="../js/jquery-1.12.3.js"></script>
+    <script src="../js/jquery.cookie.js"></script>
+</head>
+
+<body>
+	
+	
+ <form class="registerForm" id="registerForm">
+        	
+        <div class="area-title">
+        	    <span class="ipp-login">
+        	    	新用户注册
+        	    </span>
+        	    
+                <span class="ipt-login">
+                    <span>已有账号？</span>
+                    <a class="target-up" href="#">直接登录</a>
+                </span>     
+        </div>
+        
+        <!-- 手机号 -->
+       <div class="ipt-group">
+       	     <div class="bg1"></div>
+       	     <div class="bg2"></div>
+            <input type="text" class="J_iptUsername" placeholder="您的手机号" />
+            
+       </div>
+           
+           <!--手机号错误显示-->
+        <div class="ipt-group1">
+                               
+        </div>
+         
+        <!-- 滑动验证 -->
+        <div class="iptt-group"  id="J_singleNo">
+            <div class="ln" id="ln">&gt;&gt;</div>
+            <div class="J_singleNotice"><span  id='J_singleNot'>请按住滑块，拖动到最右边</span></div>
+            
+        </div>
+
+        <!-- 短信校验码 -->
+        <div class="ippt-group">
+           
+            <div class="dxjym">
+	         <div class="bg3"></div>
+	         <div class="bg4"></div>
+	         <input type="text" class="ipt-input-phonecode" placeholder="短信校验码"/>
+             <div class="yzm"></div>
+            </div>
+            
+            <div class="J_getPhonecode1">
+                 <a href='#'>获取校验码</a>
+            </div>
+        </div>
+
+      <!--短信验证码错误显示-->
+        <div class="ipt-group2">
+                                  
+        </div>
+        
+        <!-- 密码 -->
+      <div class="iipt-group">
+              
+       	     <div class="bg5"></div>
+       	     <div class="bg6"></div>
+             <input type="password" class="J_iptPasswdd" placeholder="密码，6-16位字母、数字或符号"/>
+             <div class="bg7"></div>
+      </div>
+
+       <!--密码输入验证-->
+        <div class="ipt-group3">
+                               
+        </div>
+      
+
+        <div class="ipt-btn-area">
+            <a href="#" class="ipt-btnn">注册</a>
+        </div>
+        
+         <div class="ipt-tip">
+                
+                <span>
+                                                    为保障账户安全，建议密码为6-16位字符，可包含数字、字母和特殊字符。
+                </span>
+        </div>
+        
+        <div class="ipt">
+
+                <span>
+                                         注册即接受 <a href="#">《贝贝使用协议》</a>和<a href="#">《社区使用协议》</a>
+                </span>
+        </div>
+
+        <div class="ipt-quick">
+                <span class="f-fl">快捷登录方式：</span>
+                <a class="ipt-quick-qq" href="http://login.beibei.com/openid/qq/index.html" title="QQ账号登录"></a>
+                <a class="ipt-quick-tb" href="http://login.beibei.com/openid/taobao/index.html" title="淘宝账号登录"></a>
+                <a class="ipt-quick-wx" href="http://login.beibei.com/openid/weixin/index.html" title="微信账号登录"></a>
+        </div>
+        
+        </form>
+    <script type="text/javascript" src="../js/register.js" ></script>
+        
+   
+</body>
+</html>
